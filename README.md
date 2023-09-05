@@ -1,6 +1,6 @@
 ### Hi there 👋
 🙋‍♂️I'm a beginning developer at Tech Elevator.
-🌱 I'm current learning Java.
+🌱 I'm currently learning Java.
 📫 Reach me at calebvits@gmail.com.
 
 
